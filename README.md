@@ -1,7 +1,7 @@
 ## Hi there 👋
-## Contact
-Linkedin : 
-Email : skwh45@khu.ac.kr
+## Contacts
+- Email : skwh45@khu.ac.kr
+- Linkedin : https://www.linkedin.com/in/jaehyeonshin/
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-readme-stats.vercel.app/api?username=skwh54)&hide=stars,contribs&count_private=true
