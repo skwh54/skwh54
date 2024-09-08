@@ -1,4 +1,5 @@
 ## Hi there 👋
+Major : Applied Mathematics & Computer science and engineering, Kyung Hee University 
 ## Contacts
 - Email : skwh45@khu.ac.kr
 - Linkedin : https://www.linkedin.com/in/jaehyeonshin/
