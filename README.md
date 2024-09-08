@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## Contact
+Linkedin : 
+Email : skwh45@khu.ac.kr
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwh54&show_icons=true&theme=dracula)
+https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true
