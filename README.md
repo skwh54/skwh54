@@ -1,7 +1,6 @@
 Major : Applied Mathematics & Computer science and engineering, Kyung Hee University 
 ## Contacts
 - Email : skwh45@khu.ac.kr
-- Linkedin : https://www.linkedin.com/in/jaehyeonshin/
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
