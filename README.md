@@ -1,4 +1,4 @@
-Major : Applied Mathematics & Computer science and engineering, Kyung Hee University 
+Major : Applied Mathematics & Computer science and Engineering, Kyung Hee University 
 
 Senior
 
