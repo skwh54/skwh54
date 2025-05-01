@@ -7,6 +7,8 @@ Senior
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwh54&show_icons=true&theme=dracula)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwh54&layout=compact&theme=dracula)
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
