@@ -6,6 +6,13 @@ Senior
 - Email : skwh45@khu.ac.kr
 
 
+## Contributions 
+- [SWE-bench #468](https://github.com/SWE-bench/SWE-bench/pull/468) : Fix broken link
+
+Translations
+- [Transformers #39890](https://github.com/huggingface/transformers/pull/39890) : Translate jamba.md
+- [Transformers #39536](https://github.com/huggingface/transformers/pull/39536) : Translate how_to_hack_models.md
+
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
