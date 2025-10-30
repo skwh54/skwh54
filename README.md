@@ -6,7 +6,7 @@ Senior
 - Email : skwh45@khu.ac.kr
 
 ---
-[Ko-AgentBench](https://huggingface.co/spaces/huggingface-KREW/Ko-AgentBench)
+[Ko-AgentBench](https://huggingface.co/spaces/huggingface-KREW/Ko-AgentBench) Comprehensive Evaluation Benchmark for Korean Tool-Calling Agents
 
 
 ## Contributions 
