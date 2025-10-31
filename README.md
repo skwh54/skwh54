@@ -6,13 +6,15 @@ Senior
 - Email : skwh45@khu.ac.kr
 
 ---
-[Ko-AgentBench](https://huggingface.co/spaces/huggingface-KREW/Ko-AgentBench) Comprehensive Evaluation Benchmark for Korean Tool-Calling Agents
+
+[Ko-AgentBench](https://huggingface.co/spaces/huggingface-KREW/Ko-AgentBench) : Comprehensive Evaluation Benchmark for Korean Tool-Calling Agents
 
 
 ## Contributions 
-- [SWE-bench #468](https://github.com/SWE-bench/SWE-bench/pull/468) : Fix broken link
-- [Transformers #39890](https://github.com/huggingface/transformers/pull/39890) : Translate jamba.md
-- [Transformers #39536](https://github.com/huggingface/transformers/pull/39536) : Translate how_to_hack_models.md
+- [microsoft/SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live/issues/28) : Fix typo in tutorial.md
+- [SWE-bench/SWE-bench #468](https://github.com/SWE-bench/SWE-bench/pull/468) : Fix broken link 
+- [huggingface/transformers #39890](https://github.com/huggingface/transformers/pull/39890) : Translate jamba.md
+- [huggingface/transformers #39536](https://github.com/huggingface/transformers/pull/39536) : Translate how_to_hack_models.md
 
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
