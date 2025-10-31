@@ -2,9 +2,6 @@ Major : Applied Mathematics & Computer science and Engineering, Kyung Hee Univer
 
 Senior
 
-## Contacts
-- Email : skwh45@khu.ac.kr
-
 ---
 
 [Ko-AgentBench](https://huggingface.co/spaces/huggingface-KREW/Ko-AgentBench) : Comprehensive Evaluation Benchmark for Korean Tool-Calling Agents
@@ -15,6 +12,11 @@ Senior
 - [SWE-bench/SWE-bench #468](https://github.com/SWE-bench/SWE-bench/pull/468) : Fixed broken link 
 - [huggingface/transformers #39890](https://github.com/huggingface/transformers/pull/39890) : Translated jamba.md
 - [huggingface/transformers #39536](https://github.com/huggingface/transformers/pull/39536) : Translated how_to_hack_models.md
+
+
+## Contacts
+- Email : skwh45@khu.ac.kr
+
 
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
