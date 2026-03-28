@@ -1,5 +1,5 @@
 Major : Applied Mathematics & Computer science and Engineering, Kyung Hee University 
-Senior
+
 ## Contacts
 - Email : skwh45@khu.ac.kr
 <!--
