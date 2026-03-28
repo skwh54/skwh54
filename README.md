@@ -1,7 +1,5 @@
 Major : Applied Mathematics & Computer science and Engineering, Kyung Hee University 
 
-## Contacts
-- Email : skwh45@khu.ac.kr
 <!--
 **skwh54/skwh54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
