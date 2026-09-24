@@ -1,4 +1,4 @@
-Double major in Applied Mathematics and Computer Science and Engineering at Kyung Hee University.
+B.S. in Applied Mathematics and Computer Science and Engineering from Kyung Hee University, graduating first in the College
 
 **Projects**
 
