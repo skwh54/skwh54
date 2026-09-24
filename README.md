@@ -1,4 +1,5 @@
-B.S. in Applied Mathematics and Computer Science and Engineering from Kyung Hee University, graduating first in the College
+B.S. in Applied Mathematics and B.Eng. in Computer Science and Engineering from Kyung Hee University.
+Graduated first in the College.
 
 **Projects**
 
